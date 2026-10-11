@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/
+runtime-results/
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+*.p12
