@@ -1,0 +1,1 @@
+"""Deterministic retail decision analytics."""
